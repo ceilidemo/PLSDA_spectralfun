@@ -1,6 +1,6 @@
 #################################################
 ### PLSDA: PIPO_PIFL pre-treatment needle spectra 
-### Predominantly sourced Anna Schweiger's awesome script in the PLSDA_example repository
+### Predominantly sourced Anna Schweiger's script in her PLSDA_example repository
 ### Ceili DeMarais, 28 October 2024 
 
 library(devtools)
